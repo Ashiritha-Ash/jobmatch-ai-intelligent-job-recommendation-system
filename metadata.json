@@ -1,0 +1,5 @@
+{
+  "name": "JobMatch AI",
+  "description": "AI-powered resume parser and job recommendation system matching candidates to roles based on semantic similarity and skill overlap.",
+  "requestFramePermissions": []
+}
